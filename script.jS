@@ -14,4 +14,6 @@ function messageGen(){
     console.log(`The ${things[rand]} ${verbs[verbRand]} ${adj[adjRand]} ${place[placeRand]}`);
 }
 
+//Testing the branch function
+
 messageGen();
